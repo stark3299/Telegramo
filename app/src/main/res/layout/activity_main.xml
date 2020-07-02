@@ -101,7 +101,7 @@
         android:src="@drawable/send"
         android:scaleType="centerInside"
         android:contentDescription="@string/content"
-        android:background="@drawable/mic_background"
+        android:background="@drawable/background_mic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
