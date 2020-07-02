@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Telegramo</string>
+    <string name="content">Stickers</string>
+    <string name="smile">Emoji</string>
+    <string name="attach">File Attach</string>
+    <string name="message">Type here...</string>
+    <string name="call">Call</string>
+    <string name="search">Search</string>
+    <string name="history">Clear History</string>
+    <string name="mute">Mute Notification</string>
+    <string name="delete">Delete Chat</string>
+    <string name="items">Items</string>
+</resources>
